@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684947944466",
+    "project_id": "agendamentoconsultas-2956d",
+    "storage_bucket": "agendamentoconsultas-2956d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684947944466:android:2985c3efb5f183333494cb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684947944466-uv2cv79tnhnmmuh3e6u4d17n3sagfqru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0-cLomo3qFAjQ4-XTn4qtCgSXZlqGeDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684947944466-uv2cv79tnhnmmuh3e6u4d17n3sagfqru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

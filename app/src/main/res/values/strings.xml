@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MedApp</string>
+    <string name="navigation_drawer_open">Aberto</string>
+    <string name="navigation_drawer_close">Fechado</string>
+
+    <string-array name="especialidades">
+        <item>Nenhuma especialidade selecionada</item>
+        <item>Cardiologia</item>
+        <item>Dermatologia</item>
+        <item>Ginecologia e Obstetrícia</item>
+        <item>Ortopedia</item>
+        <item>Pediatria</item>
+        <item>Oftalmologia</item>
+        <item>Psiquiatria</item>
+        <item>Urologia</item>
+        <item>Endocrinologia</item>
+        <item>Neurologia</item>
+    </string-array>
+
+
+    <string-array name="medicosCardiologia">
+
+        <item>Dr. José de Alencar</item>
+        <item>Dr. Pedro Brugada</item>
+        <item>Dra.Ludhmila Hajjar</item>
+
+    </string-array>
+
+    <string-array name="medicosDermatologia">
+
+        <item>Dra. Ana Cristina Trench</item>
+        <item>Dra. Juliana Mossini Nicoliello</item>
+        <item>Dra. Aline Tiemi Asahi Baptista</item>
+
+    </string-array>
+
+    <string-array name="medicosGinecologiaEObstetricia">
+
+        <item>Dra. Adriana Helena Ramos Faro Gulias</item>
+        <item>Dr. Rodrigo Miyazima</item>
+        <item>Dra. Alexandra Ongaratto</item>
+
+    </string-array>
+</resources>
